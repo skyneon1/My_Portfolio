@@ -25,7 +25,7 @@ function About() {
             </p>
           </div>
           <div className="about-image">
-            <img src="../assets/about-ch.jpg" alt="About Me" />
+            <img src="https://img.freepik.com/free-photo/3d-render-little-boy-with-laptop-tools_1057-44642.jpg?uid=R140822190" alt="About Me" />
           </div>
         </div>
       </div>
