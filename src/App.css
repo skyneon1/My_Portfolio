@@ -1,0 +1,38 @@
+:root {
+    --fs-body: 17px;
+    --trans01: all 0.2s ease-in-out;
+    --trans: all 0.2s ease-in-out;
+    --h1: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif,
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: system-ui, ;
+    font-size: 17px;
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    color: rgb(235, 235, 235);
+    background: #ffffff;
+    border-radius: 50px;
+}
+
+body {
+    font-size: var(--fs-body);
+    line-height: 1.5;
+    transition: var(--trans);
+    height: 300vh;
+    background-color: #000;
+    color: white;
+}
