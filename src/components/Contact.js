@@ -15,7 +15,7 @@ const Contact = () => {
                         <p><strong>Email:</strong> www.aniket716@gmail.com</p>
                         <p><strong>Phone:</strong> +91 733 999 3716</p>
                         <p><strong>Location:</strong> Bengaluru, India</p>
-                        <img src="/map.jpg" alt="Map" />
+                        <img src="https://img.freepik.com/free-photo/3d-cartoon-pin-location_23-2151642220.jpg?uid=R140822190&semt=ais_hybrid" alt="Map" />
                        
                     </div>
                     <form className="contact-form">
