@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/My_Portfolio/static/css/main.a06a86e0.css",
+    "main.js": "/My_Portfolio/static/js/main.3970a46f.js",
+    "static/js/488.103417aa.chunk.js": "/My_Portfolio/static/js/488.103417aa.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/My_Portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/My_Portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/My_Portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/My_Portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/My_Portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Aniket-Resume.pdf": "/My_Portfolio/static/media/Aniket-Resume.624655498a682bc6580c.pdf",
+    "index.html": "/My_Portfolio/index.html",
+    "main.a06a86e0.css.map": "/My_Portfolio/static/css/main.a06a86e0.css.map",
+    "main.3970a46f.js.map": "/My_Portfolio/static/js/main.3970a46f.js.map",
+    "488.103417aa.chunk.js.map": "/My_Portfolio/static/js/488.103417aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a06a86e0.css",
+    "static/js/main.3970a46f.js"
+  ]
+}
