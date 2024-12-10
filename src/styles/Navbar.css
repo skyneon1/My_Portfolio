@@ -130,6 +130,9 @@ li a:hover {
   .navigation ul.show {
     display: flex;
   }
+  .navigation ul li a {
+    color: #808180;
+  }
 
   .hamburger {
     display: block;
