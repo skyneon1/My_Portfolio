@@ -25,7 +25,7 @@ function Body() {
       </section>
       
       <section className="home-right">
-        <img src="https://img.freepik.com/free-photo/3d-illustration-cartoon-man-with-computer-various-objects_1057-46388.jpg?uid=R140822190" alt="3D Portrait" alt="3D Portrait" />
+        <img src="https://img.freepik.com/free-photo/3d-illustration-cartoon-man-with-computer-various-objects_1057-46388.jpg?uid=R140822190" alt="3D Portrait" />
       </section>
       
     </div>
