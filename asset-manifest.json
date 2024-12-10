@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My_Portfolio/static/css/main.a06a86e0.css",
-    "main.js": "/My_Portfolio/static/js/main.3970a46f.js",
+    "main.js": "/My_Portfolio/static/js/main.70fcc96b.js",
     "static/js/488.103417aa.chunk.js": "/My_Portfolio/static/js/488.103417aa.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/My_Portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/My_Portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -11,11 +11,11 @@
     "static/media/Aniket-Resume.pdf": "/My_Portfolio/static/media/Aniket-Resume.624655498a682bc6580c.pdf",
     "index.html": "/My_Portfolio/index.html",
     "main.a06a86e0.css.map": "/My_Portfolio/static/css/main.a06a86e0.css.map",
-    "main.3970a46f.js.map": "/My_Portfolio/static/js/main.3970a46f.js.map",
+    "main.70fcc96b.js.map": "/My_Portfolio/static/js/main.70fcc96b.js.map",
     "488.103417aa.chunk.js.map": "/My_Portfolio/static/js/488.103417aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a06a86e0.css",
-    "static/js/main.3970a46f.js"
+    "static/js/main.70fcc96b.js"
   ]
 }
