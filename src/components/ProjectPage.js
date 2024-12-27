@@ -48,7 +48,7 @@ const projects = [
         id: 8,
         title: "Blood Donation Form",
         description: "Login & Registration System with PHP & MySQL using Xampp",
-        url: "https://skyneon1.github.io/Portfolio/",
+        url: "https://skyneon1.github.io/Blood-Donation-form/",
     },
 ];
 
