@@ -5,7 +5,23 @@ const skills = [
     { name: 'MongoDB', percentage: 55 },
     { name: 'ExpressJs', percentage: 60 },
     { name: 'ReactJs', percentage: 50 },
-    { name: 'NodeJs', percentage: 60 },
+    { name: 'NodeJs', percentage: 60 },    
+    { name: 'Git', percentage: 90 },
+    { name: 'Github', percentage: 90 },
+    { name: 'Docker', percentage: 70 },  
+    { name: 'Firebase', percentage: 40 },
+    { name: 'Linux', percentage: 55 },
+    { name: 'Kubernetes', percentage: 40 },
+    { name: 'Js', percentage: 70 },
+    { name: 'Python', percentage: 60 },
+    { name: 'Wordpress', percentage: 45 },
+    { name: 'Bootstrap', percentage: 60 },
+    { name: 'Tailwind CSS', percentage: 65 },
+    { name: 'React-native', percentage: 40 },
+    { name: 'DSA', percentage: 50 },
+    { name: 'Spline', percentage: 60 },
+
+
 ];
 
 const Skills = () => {
