@@ -30,7 +30,7 @@ const projects = [
         id: 5,
         title: "MongoDB data store",
         description: "A simple form page integrate with Atlas MongoDB to store data.",
-        url: "https://yt-downloader-42vz.onrender.com/",
+        url: "https://mongodb-datastore.onrender.com/",
     }, 
     {
         id: 6,
@@ -49,6 +49,30 @@ const projects = [
         title: "Blood Donation Form",
         description: "Login & Registration System with PHP & MySQL using Xampp",
         url: "https://skyneon1.github.io/Blood-Donation-form/",
+    },
+    {
+        id: 9,
+        title: "Ping Utility Tester",
+        description: "A simple ping utility tester made using nodejs.",
+        url: "https://github.com/skyneon1/Ping-Utility-Test",
+    },
+    {
+        id: 10,
+        title: "Proxy Server",
+        description: "A simple proxy server which is middleware between system and server.",
+        url: "https://github.com/skyneon1/proxy-server",
+    },
+    {
+        id: 11,
+        title: "HTTP-fetcher",
+        description: "A simple api testing http fetcher made using Nodejs.",
+        url: "https://github.com/skyneon1/http-fetcher",
+    },
+    {
+        id: 12,
+        title: "Auth-Firebase",
+        description: "A authentication system made using Firebase.",
+        url: "https://github.com/skyneon1/",
     },
 ];
 
