@@ -4,9 +4,9 @@ import "../styles/ProjectPage.css";
 const projects = [
     {
         id: 1,
-        title: "NovaX",
-        description: "A tech related blogging website.",
-        url: "http://novax.free.nf/?i=1",
+        title: "Web Scrapper Pro",
+        description: "A full-stack platform for automated web scraping and data analysis.",
+        url: "https://web-scrapper-pro-eight.vercel.app/",
     }, {
         id: 2,
         title: "Nest-Finder",
@@ -68,12 +68,7 @@ const projects = [
         description: "A simple api testing http fetcher made using Nodejs.",
         url: "https://github.com/skyneon1/http-fetcher",
     },
-    {
-        id: 12,
-        title: "Auth-Firebase",
-        description: "A authentication system made using Firebase.",
-        url: "https://github.com/skyneon1/",
-    },
+    
 ];
 
 export const ProjectPage = () => {
